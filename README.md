@@ -6,8 +6,7 @@ https://github.com/OWASP/NodeGoat#getting-started
 
 # INTEGRANTES
 1. Matias Millain (matimillain@gmail.com)
-2. -
-3. -
-4. -
-5. -
-6. -
+2. Jorge Garcia Schanz
+3. German Maraver
+4. Thais Peñaloza
+5. Mariano Aramayo
